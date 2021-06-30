@@ -82,3 +82,4 @@ class RoyalFamily {
   // }
   // //I have to invoke this function
   // console.log(sample());
+  
